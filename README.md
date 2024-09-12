@@ -16,12 +16,13 @@ Technologies Used
 HTML5: Structure of the web page.
 CSS3: Styling and animations for the visual elements.
 JavaScript: Logic for the sorting algorithms and user interactions.
+This project is live at : https://kartik012003.github.io/Sorting_visualizer/
 How to Use
 Clone this repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/sorting-visualizer.git
+git clone https://github.com/Kartik012003/sorting-visualizer.git
 cd sorting-visualizer
 Open the index.html file in your browser to start the visualizer.
 
