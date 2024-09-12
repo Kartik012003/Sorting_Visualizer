@@ -22,7 +22,7 @@ Clone this repository:
 
 bash
 Copy code
-git clone https://github.com/Kartik012003/sorting-visualizer.git
+git clone https://github.com/Kartik012003/sorting-visualizer
 cd sorting-visualizer
 Open the index.html file in your browser to start the visualizer.
 
