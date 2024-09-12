@@ -1,4 +1,5 @@
 sorting Visualizer
+                                      
 A web-based application that visualizes various sorting algorithms, created using HTML, CSS, and JavaScript. This project helps users understand how different sorting algorithms work by providing a dynamic, graphical representation of the sorting process.
 
 Features
