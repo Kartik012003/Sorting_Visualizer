@@ -40,6 +40,4 @@ Add more sorting algorithms (e.g., Heap Sort, Shell Sort).
 Include step-by-step explanations of each sorting algorithm.
 Provide a performance comparison between algorithms.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
