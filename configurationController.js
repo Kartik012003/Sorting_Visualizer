@@ -7,6 +7,7 @@ const payloadSecret = process.env.NODE_APP_PAYLOAD_SECURITY_KEY;
 
 // Save a new configuration
 async function saveConfiguration(req, res) {
+  console.log("save configuration SYNC Function running!!!!!!1")
   try {
     // const encryptedData = req.body.data;
     // const decryptedData = Service.decryptData(encryptedData, payloadSecret);
@@ -32,7 +33,7 @@ async function saveConfiguration(req, res) {
     if (providedApiKey !== apiKey) {
       return res.status(403).json({ message: "Unauthorized access." });
     }
-
+    
     // Check for unique key
     const existingConfiguration = await Configuration.findOne({ key });
     if (existingConfiguration) {
